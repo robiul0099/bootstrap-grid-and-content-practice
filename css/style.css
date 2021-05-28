@@ -1,0 +1,35 @@
+.myclass{
+	background-color: blue;
+	text-align: center;
+	padding-bottom:10px;
+	color: white;
+}
+.myid{
+	background-color: rgb(128, 29, 29);
+	text-align: center;
+	margin-top: 0.5rem;
+	color: rgb(251, 255, 255);
+	padding:5px 0;
+
+}
+.mypid{
+	background-color: skyblue;
+	text-align: center;
+	margin-top: 0.5rem;
+	color: rgb(10, 35, 44);
+	padding:0.3rem 0;
+}
+.myuid{
+	background-color: darkmagenta;
+	text-align: center;
+	margin-top: 0.5rem;
+	color: white;
+	padding: 0.2rem;
+}	
+.myidb{
+	background-color: yellowgreen;
+	text-align:center;
+	margin-top: 0.5rem;
+	color: rgb(3, 0, 0);
+	padding: 0.2rem;
+}
